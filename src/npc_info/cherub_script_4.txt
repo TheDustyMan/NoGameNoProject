@@ -1,0 +1,3 @@
+Everything in the world is either NEWLINE a potato or not a potato!
+potato potato potato potato NEWLINE potato potato potato
+Go away now! Save my potato!
